@@ -14,14 +14,11 @@
 <br>
 
 <!-- animated contribution graph -->
-<h3><code>shivam@github ~ $ ./contributions.sh</code></h3>
-
 <img src="./contrib-heatmap.svg" width="860" alt="Shivam's GitHub contribution graph" />
 
 <br>
 <br>
 
-<h3><code>shivam@github ~ $ ./links.sh</code></h3>
 
 <p><b>Computer Science Engineering Student</b></p>
 
